@@ -3,7 +3,7 @@
 <h3 align="center">Coding Life Away One Line At A Time</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PinkyCodeMaster&label=Profile%20views&color=0e75b6&style=flat" alt="PinkyCodeMaster" /> </p>
 
-#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PinkyCodeMaster&theme=" alt="PinkyCodeMaster" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PinkyCodeMaster&theme=" alt="PinkyCodeMaster" /></a> </p> -->
 
 - 🔭 I’m currently working on [Learning GitHub](https://github.com/PinkyCodeMaster?tab=repositories)
 - 👯 I’m looking to collaborate on [Family-Hive](https://github.com/PinkyCodeMaster?tab=repositories)
